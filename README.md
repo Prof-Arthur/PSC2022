@@ -17,15 +17,15 @@ link drive: https://laureatelatambr-my.sharepoint.com/:f:/g/personal/arthur_roch
 
 3. Faça um programa que leia e valide as seguintes informações:
 
-a. Nome: maior que 3 caracteres;
+	1. Nome: maior que 3 caracteres;
 
-b. Idade: entre 0 e 150;
+	2. Idade: entre 0 e 150;
 
-c. Salário: maior que zero;
+	3. Salário: maior que zero;
 
-d. Sexo: 'f' ou 'm';
+	4. Sexo: 'f' ou 'm';
 
-e. Estado Civil: 's', 'c', 'v', 'd';
+	5. Estado Civil: 's', 'c', 'v', 'd';
 
 4. Supondo que a população de um país A seja da ordem de 80000 habitantes com uma taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes com uma taxa de crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.
 
