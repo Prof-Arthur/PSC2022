@@ -7,6 +7,7 @@
 
 ### Links
 
+- Aula Exceções: https://animaeducacao.zoom.us/rec/share/KQPmWB4CW4Vwgc2_klmglNDI4OxWogUsp6LZMlwDKnGX9hdxfhuE_eZESEk-NzQZ.wRBth02wgVmV87j9
 - Aula Herança e Polimorfismo: https://animaeducacao.zoom.us/rec/share/TMI7wmhl5tPGfGKt77xg5J5HbzhOniuelsoCZsU2qCLTau39UTuU-jPowuFaMX9C._n3auXuXHJ2Rdtye
 
 link drive: https://animaedu-my.sharepoint.com/:f:/g/personal/arthur_rocha_ulife_com_br/Em72NQL7-GPQXnWme29LS78B_nPWW1fsJkXG6c5vpZY9Jw?e=Bf0jKE
