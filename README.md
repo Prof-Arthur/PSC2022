@@ -12,6 +12,7 @@
 
 link drive: https://animaedu-my.sharepoint.com/:f:/g/personal/arthur_rocha_ulife_com_br/Em72NQL7-GPQXnWme29LS78B_nPWW1fsJkXG6c5vpZY9Jw?e=Bf0jKE
 
+
 ### Lista de Exercícios de Loops em Java:
 
 1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. (Dica: Enquanto a nota não for válida, execute o bloco de código)
